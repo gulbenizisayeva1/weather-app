@@ -18,7 +18,7 @@ This is a simple Weather App that allows users to search for any city and view r
 
 - HTML
 
-- JavaScript / React (layihəndə hansıdırsa uyğun saxla)
+- JavaScript / React 
 
 - Tailwind CSS
 
